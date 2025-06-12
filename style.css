@@ -1,0 +1,12 @@
+#p1{
+    background-color: aqua;
+    height: 500px;
+    width: auto;
+}
+.p2{
+    background-image:url(nature.jpg) ;
+    height: 600px;
+    width:auto;
+    margin: 500px;
+    background-repeat: no-repeat;
+}

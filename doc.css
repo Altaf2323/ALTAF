@@ -1,0 +1,64 @@
+.d{
+    background-color: rgb(19, 168, 119);
+    height: 400px;
+    width: auto
+    margin:40px;
+
+}
+
+#d2{
+    background-color: black;
+    height:400px;
+    width:550px;
+    float:left;
+
+}
+
+#d3{
+    background-color: aqua;
+    height:400px;
+    width:650px;
+    float: left;
+    
+}
+
+#d4{
+    background-color: brown;
+    height:400px;
+    width: 585px;
+    float:right;
+}
+
+.d7{
+    background-color: rgb(45, 29, 192);
+    height: 200px;
+    width: auto;
+    
+}
+
+.d6
+{
+    height: 400px;
+    width: auto;
+
+}
+
+.d8{
+    background-color: burlywood;
+    height: 300px;
+    width: auto;
+}
+
+.d9
+{
+    height: 400px;
+    width: auto;
+
+}
+
+.d10{
+    background-image: url(nature.jpg);
+    height: 200px;
+    width: 200px;
+    float: right;
+}
